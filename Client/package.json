@@ -1,0 +1,13 @@
+{
+  "name": "potential-engine-client",
+  "version": "1.0.0",
+  "description": "Client-side TypeScript for potential-engine project",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "@types/signalr": "^2.4.3",
+    "typescript": "^5.0.0"
+  }
+}

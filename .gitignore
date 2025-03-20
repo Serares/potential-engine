@@ -105,3 +105,6 @@ publish/
 
 # SonarCloud
 .sonarqube/
+
+# Client
+node_modules
